@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
 
-  <h3 align="center">A full stack Threads Clone</h3>
+  <h1 align="center">ChatterLoom</h1>
 
 
 </div>
